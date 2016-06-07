@@ -1,0 +1,3 @@
+[submodule "osx-socks-proxy"]
+	path = osx-socks-proxy
+	url = /Users/johmicd/github_projects/osx-socks-proxy/
