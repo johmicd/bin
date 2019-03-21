@@ -1,6 +1,6 @@
 [submodule "osx-socks-proxy"]
 	path = osx-socks-proxy
-	url = /Users/johmicd/github_projects/osx-socks-proxy/
+	url = https://gist.github.com/18ee65749d6dbe450fe3b3f34fd93358
 [submodule "sshrdp"]
 	path = sshrdp
 	url = https://github.com:johmicd/sshrdp.git
